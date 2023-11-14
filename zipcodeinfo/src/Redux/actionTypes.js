@@ -1,0 +1,6 @@
+
+export const LOCATION_LOADING="LOCATION_LOADING"
+export const LOCATION_SUCCESS="LOCATION_SUCCESS"
+export const LOCATION_ERROR="LOCATION_ERROR"
+export const SWAP="SWAP"
+export const NOT_SWAP="NOT_SWAP"
