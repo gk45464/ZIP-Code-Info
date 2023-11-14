@@ -16,8 +16,8 @@ const ZipForm = () => {
     };
 
     return (
-        <div className="w-full h-[92vh] relative  flex items-center justify-center " >
-            <div className="w-full md:max-w-[500px] p-4 flex flex-col  items-center justify-center md:px-10 lg:p-24 h-full md:h-[500px] lg:h-[500px] bg-gray-950  text-white absolute m-auto gap-2">
+        <div className="w-full h-[92vh] relative  flex items-center justify-center "  >
+            <div className="w-full md:max-w-[500px] p-4 flex flex-col  items-center justify-center md:px-10 lg:p-24 h-full md:h-[500px] lg:h-[500px] bg-gray-700 rounded-3xl text-white absolute m-auto gap-2">
                 <h1 className='text-4xl font-bold'>Zip <span className='font-black'>Code</span></h1>
                 <p className='mt-2 text-center'>Enter below a ZipCode you want to know the location of</p>
                 <form className="flex" onSubmit={handleSubmit}>
