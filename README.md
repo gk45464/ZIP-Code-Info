@@ -25,4 +25,8 @@ Users can input a postal code, triggering an API call to fetch data, which inclu
 
 These features make the app user-friendly, informative, and visually appealing while maintaining a robust and flexible structure..
 
-   
+
+
+# Live
+
+https://zipinforj.netlify.app/
